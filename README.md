@@ -1,4 +1,4 @@
-# GabLite - Versione Leggera
+# Gab333 - Versione solo Amministratori e owner 
 
 <div align="center">
 
