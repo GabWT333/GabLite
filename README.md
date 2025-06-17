@@ -1,4 +1,4 @@
-# Gab333 - Versione solo Amministratori e owner 
+# Gab333 - Versione Lite 
 
 <div align="center">
 
