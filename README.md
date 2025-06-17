@@ -1,8 +1,10 @@
-# Gab333 - Versione Lite 
+
 
 <div align="center">
 
-![GabLite Logo](https://qu.ax/fAdes.jpg)
+![333BOT Logo](https://qu.ax/fAdes.jpg)
+
+
 
 [![Donazioni PayPal](https://img.shields.io/badge/PayPal-Dona-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/Gabgithub)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/insta_gqbri)
@@ -17,12 +19,12 @@
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/GabWT333?color=red&style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/GabWT333/GabLite?color=yellow&style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/GabWT333/GabLite?color=green&style=for-the-badge&logo=github)
-![Watchers](https://img.shields.io/github/watchers/GabWT333/GabLite?color=blue&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/GabWT333/Gab333?color=yellow&style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/GabWT333/Gab333?color=green&style=for-the-badge&logo=github)
+![Watchers](https://img.shields.io/github/watchers/GabWT333/Gab333?color=blue&style=for-the-badge&logo=github)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GabWT333&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![Repo Size](https://img.shields.io/github/repo-size/GabWT333/GabLite?color=orange&style=for-the-badge&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/GabWT333/Gab333?color=orange&style=for-the-badge&logo=github)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
 
 </div>
@@ -49,12 +51,12 @@ Prima di iniziare, assicurati di avere:
 
 <div align="center">
 
-[![Fork Repository](https://img.shields.io/badge/🍴%20Fork-Repository-brightgreen?style=for-the-badge)](https://github.com/GabWT333/GabLite/fork)
+[![Fork Repository](https://img.shields.io/badge/🍴%20Fork-Repository-brightgreen?style=for-the-badge)](https://github.com/GabWT333/Gab333/fork)
 
 </div>
 
 1. Clicca sul pulsante "Fork" sopra
-2. Modifica il numero del proprietario in [`config.js`](https://github.com/GabWT333/GabLite/blob/master/config.js)
+2. Modifica il numero del proprietario in [`config.js`](https://github.com/GabWT333/Gab333/blob/master/config.js)
 
 ---
 
@@ -76,10 +78,10 @@ pkg install imagemagick -y
 yarn install -y 
 
 # Clonazione repository
-cd /sdcard && rm -rf GabLite && git clone https://github.com/GabWT333/GabLite.git
+cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
 
 # Installazione bot
-cd /sdcard/GabLite
+cd /sdcard/Gab333
 yarn start
 ```
 
@@ -87,22 +89,22 @@ yarn start
 
 ## 🎯 **Comandi Utili**
 
-### 🟢 **Avviare GabLite**
+### 🟢 **Avviare 333BOT**
 ```bash
-cd /sdcard/GabLite
+cd /sdcard/Gab333
 yarn start
 ```
 
 ### 🔄 **Ottenere un nuovo codice QR**
 ```bash
-cd /sdcard/GabLite
-rm -rf GabLiteSession
+cd /sdcard/Gab333
+rm -rf 333BotSession
 yarn start
 ```
 
 ### ⚡ **Installazione Rapida (One-Line)**
 ```bash
-cd /sdcard && rm -rf GabLite && git clone https://github.com/GabWT333/GabLite.git && cd GabLite
+cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git && cd Gab333
 ```
 
 ---
@@ -129,8 +131,8 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
 
 <div align="center">
 
-<a href="https://github.com/GabWT333/GabLite/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GabWT333/GabLite" />
+<a href="https://github.com/GabWT333/Gab333/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GabWT333/Gab333" />
 </a>
 
 </div>
@@ -141,7 +143,7 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&width=500&lines=GabLite+presto+in+altre+lingue+🇮🇹;Nuove+funzionalità+in+arrivo+⚡;Supporto+multilingue+🌍;Aggiornamenti+costanti+🔄)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&width=500&lines=333Bot+presto+in+altre+lingue+🇮🇹;Nuove+funzionalità+in+arrivo+⚡;Supporto+multilingue+🌍;Aggiornamenti+costanti+🔄)
 
 </div>
 
